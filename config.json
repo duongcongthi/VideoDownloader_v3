@@ -1,6 +1,5 @@
 {
-"isHideFeature": true,
-"isEnableFeature": false,
+"isEnableFeature": true,
 "needPurchase" : false,
 "disableClosePurchase": false,
 "disableOnboarding": false,
