@@ -1,6 +1,6 @@
 {
-"isEnableFeature": true,
-"needPurchase" : false,
+"isEnableFeature": false,
+"needPurchase" : true,
 "disableClosePurchase": false,
 "disableOnboarding": false,
 "rapidapi_instagram_name":"x-rapidapi-key",
